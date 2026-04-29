@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\PBTFileService\\FileService.Api.csproj": {}
+    "c:\\projects\\PBTFileService\\FileService.Api.csproj": {}
   },
   "projects": {
-    "C:\\projects\\PBTFileService\\FileService.Api.csproj": {
+    "c:\\projects\\PBTFileService\\FileService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\PBTFileService\\FileService.Api.csproj",
+        "projectUniqueName": "c:\\projects\\PBTFileService\\FileService.Api.csproj",
         "projectName": "FileService.Api",
-        "projectPath": "C:\\projects\\PBTFileService\\FileService.Api.csproj",
+        "projectPath": "c:\\projects\\PBTFileService\\FileService.Api.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\PBTFileService\\obj\\",
+        "outputPath": "c:\\projects\\PBTFileService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
